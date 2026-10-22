@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["649MG454YS.app.ayako.Ayako"],
+        "components": [
+          { "/": "/w/*", "comment": "A shared workout; the drills ride in the fragment." }
+        ]
+      }
+    ]
+  }
+}
